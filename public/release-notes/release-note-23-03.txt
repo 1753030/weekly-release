@@ -1,0 +1,4 @@
+- Đề cương khóa luận v0.1:
+  + Giới thiệu, phạm vi, mục tiêu, cách tiếp cận, các mốc thời gian nghiên cứu.
+- Slide đề cương khóa luận:
+  + Tóm tắt đề cương khóa luận.

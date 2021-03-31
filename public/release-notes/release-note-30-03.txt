@@ -1,0 +1,4 @@
+- Đề cương khóa luận:
+  + Cập nhật mục tiêu đề tài, phạm vi, cách tiếp cận.
+  + Bổ sung phần đánh giá, tài liệu tham khảo, bản mẫu và mã nguồn/bộ dữ liệu có sẵn
+- Thực hiện train thử model mẫu với bộ dữ liệu eng-fr

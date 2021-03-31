@@ -64,6 +64,34 @@ function App() {
               </a>
             </p>
           </li>
+
+          <li>
+            <a target="_blank" href="../release-notes/release-note-30-03.txt">
+              Release note
+            </a>
+          </li>
+        </ul>
+
+        <h2>23/03/2021</h2>
+        <ul>
+          <li>
+            <p>
+            Slide đề cương khóa luận:&nbsp;
+              <a
+                target="_blank"
+                href="https://docs.google.com/presentation/d/1RF5ui0vI05Vn7FTmiAqvVkn8WWJK-AF4w5Nk2mWuoYM/edit?usp=sharing"
+              >
+                google docs
+              </a>
+              &nbsp;
+            </p>
+          </li>
+
+          <li>
+            <a target="_blank" href="../release-notes/release-note-23-03.txt">
+              Release note
+            </a>
+          </li>
         </ul>
 
         <h2>23/01/2021</h2>
@@ -86,6 +114,12 @@ function App() {
                 .docx
               </a>
             </p>
+          </li>
+
+          <li>
+            <a target="_blank" href="../release-notes/release-note-23-01.txt">
+              Release note
+            </a>
           </li>
         </ul>
       </header>
